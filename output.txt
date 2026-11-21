@@ -1,0 +1,8 @@
+***Failed User Count***
+Bob: 2
+David: 1
+Eve: 1
+ 
+***Incomplete log***
+09:02 LOGIN FAILED
+09:09 LOGIN FAILED user=
